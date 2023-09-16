@@ -1,11 +1,11 @@
-![Projeto](/Users/humberto/Workspace/upload-ai-nlw/Wallpaper- 2560x1600.png)
+![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/humberto/Workspace/upload-ai-nlw/Wallpaper-%25202560x1600.png?version%253D1694877751314)
 
 # NLW IA - upload.ai Mastery #
 
 
 O projeto NLW IA Mastery Upload.ai é uma aplicação web desenvolvida durante o evento NLW IA da Rocketseat. Ela utiliza tecnologias avançadas para converter vídeos em áudio, transcrever o conteúdo e criar automaticamente títulos e descrições para vídeos no YouTube. Isso demonstra como a Inteligência Artificial pode melhorar a eficiência em tarefas cotidianas relacionadas à mídia online.
 
-## Tecnologias utilizadas ##
+## Stacks utilizadas ##
 
 ### BACK-END ###
 
@@ -74,6 +74,8 @@ npm run dev
 
 ```bash
 npm run dev
+
+
 ```
 
 
