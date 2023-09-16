@@ -1,1 +1,87 @@
-# upload-ai-nlw
+![Projeto](/Wallpaper%20-%201400x900.png)
+
+# NLW IA - upload.ai Mastery #
+
+
+O projeto NLW IA Mastery Upload.ai é uma aplicação web desenvolvida durante o evento NLW IA da Rocketseat. Ela utiliza tecnologias avançadas para converter vídeos em áudio, transcrever o conteúdo e criar automaticamente títulos e descrições para vídeos no YouTube. Isso demonstra como a Inteligência Artificial pode melhorar a eficiência em tarefas cotidianas relacionadas à mídia online.
+
+## Tecnologias utilizadas ##
+
+### BACK-END ###
+
+- [Node.js](https://nodejs.org/)
+- [Prisma](https://prisma.io/)
+- [Fastify](https://fastify.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [OpenAI](https://openai.com/)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,prisma,fastify,typescript,openai" />
+  </a>
+</p> 
+
+### FRONT-END ###
+
+- [Vite.js](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [FFmpeg](https://www.ffmpeg.org/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Axios](https://axios-http.com/)
+
+## Funcionalidades da Aplicação ##
+
+### - FRONT-END ###
+
+O Frontend da aplicação converte vídeos em áudio e envia esses áudios com prompts e configurações ao Backend. Ele aguarda a resposta do Backend, que inclui título, descrição e transcrição do áudio, úteis para postagens no YouTube.
+
+### - BACK-END ###
+
+O Backend recebe a solicitação do Frontend, envia o áudio para o ChatGPT, que transcreve e cria título e descrição com base no prompt.
+
+## Clonando e executando o app ##
+
+1. Clone o repositório usando o comando:
+
+```bash
+git clone https://github.com/Humberto08/upload-ai-nlw.git
+```
+
+2. Navegue para o diretório raiz do projeto:
+
+```bash
+cd upload-ai-api
+```
+
+3. Instale as dependências do Backend:
+
+```bash
+npm install
+```
+
+4. Instale as dependências do Frontend:
+
+```bash
+upload-ai-web
+npm install
+```
+
+5. Certifique-se de configurar as variáveis de ambiente essenciais para o projeto.
+
+6. Execute o Backend:
+
+```bash
+npm run dev
+```
+
+7. Execute o Frontend:
+
+```bash
+npm run dev
+```
+
+
+
+
+
