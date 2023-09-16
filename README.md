@@ -1,5 +1,4 @@
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/humberto/Workspace/upload-ai-nlw/Wallpaper-%25202560x1600.png?version%253D1694877751314)
-
+![alt imagem de capa](./.github/wallpaper.png)
 # NLW IA - upload.ai Mastery #
 
 
