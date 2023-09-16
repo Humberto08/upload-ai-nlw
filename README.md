@@ -1,4 +1,4 @@
-![Projeto](/Wallpaper%20-%201400x900.png)
+![Projeto](/Users/humberto/Workspace/upload-ai-nlw/Wallpaper- 2560x1600.png)
 
 # NLW IA - upload.ai Mastery #
 
@@ -15,11 +15,6 @@ O projeto NLW IA Mastery Upload.ai é uma aplicação web desenvolvida durante o
 - [TypeScript](https://www.typescriptlang.org/)
 - [OpenAI](https://openai.com/)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,prisma,fastify,typescript,openai" />
-  </a>
-</p> 
 
 ### FRONT-END ###
 
