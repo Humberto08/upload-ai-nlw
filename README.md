@@ -42,11 +42,8 @@ O Backend recebe a solicitação do Frontend, envia o áudio para o ChatGPT, que
 git clone https://github.com/Humberto08/upload-ai-nlw.git
 ```
 
-2. Navegue para o diretório raiz do projeto:
+2. Navegue para o diretório raiz do projeto e instale as dependências (frontend e backend):
 
-```bash
-cd upload-ai-api
-```
 
 3. Instale as dependências do Backend:
 
@@ -57,7 +54,6 @@ npm install
 4. Instale as dependências do Frontend:
 
 ```bash
-upload-ai-web
 npm install
 ```
 
